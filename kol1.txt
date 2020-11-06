@@ -6,3 +6,6 @@ Zmiana02
 Zmiana03
 
 >>>>>>> prostaWersja
+
+Zmiana kolejna
+Zmiana kolejna 2
